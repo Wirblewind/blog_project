@@ -1,0 +1,6 @@
+[submodule "blog-app"]
+	path = blog-app
+	url = https://github.com/Wirblewind/blog-app.git
+[submodule "blog-dashboard"]
+	path = blog-dashboard
+	url = https://github.com/Wirblewind/blog-dashboard.git
